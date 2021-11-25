@@ -1,6 +1,6 @@
 class Solution{
     public:
-    //Function to store the zig zag order traversal of tree in a list.
+    //Function to store the zig zag order traversal of tree in a list
     vector <int> zigZagTraversal(Node* root)
     {
     	// Code here  
